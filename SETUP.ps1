@@ -1,8 +1,8 @@
 #!/usr/bin/env powershell
-# Web3 Design Agency Website - Quick Start Guide
+# Jimmy Graphics Printing Solution - Quick Start Guide
 
 Write-Host "==================================" -ForegroundColor Cyan
-Write-Host "Web3 Design Agency Website Setup" -ForegroundColor Cyan
+Write-Host "Jimmy Graphics Printing Solution" -ForegroundColor Cyan
 Write-Host "==================================" -ForegroundColor Cyan
 Write-Host ""
 
