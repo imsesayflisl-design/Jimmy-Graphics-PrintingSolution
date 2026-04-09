@@ -114,5 +114,3 @@ Place your images in the `images/` folder and reference them in HTML:
 This website template is free to use and modify.
 
 ---
-
-Created with ❤️ for Web3 Design Agency
